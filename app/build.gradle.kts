@@ -7,11 +7,11 @@ plugins {
 
 
 android {
-    namespace = "com.jackrjie.cryptotracker"
+    namespace = "com.jackrjie.dailycrypto"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.jackrjie.cryptotracker"
+        applicationId = "com.jackrjie.dailycrypto"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
